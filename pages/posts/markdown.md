@@ -1,8 +1,8 @@
 ---
-title: Markdown Examples
+title: Automate PDF Manipulation and Email tasks w/AppleScript
 date: 2021/3/19
-description: View examples of all possible Markdown options.
-tag: web development
+description: Automated PDF manipulation and Email tasks using a combination of AppleScript and Shell Scripting.
+tag: scripts
 author: You
 ---
 
