@@ -1,8 +1,11 @@
-import 'nextra-theme-blog/style.css'
 import Head from 'next/head'
-
 import '../styles/main.css'
 
+async function getData() {
+  const res = await fetch('https://api.github.com/users/vercel', {cache: "no-store"})
+  const json = await res.json()
+  return json
+}
 export default function Nextra({ Component, pageProps }) {
   return (
     <>
