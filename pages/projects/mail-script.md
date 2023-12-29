@@ -1,6 +1,6 @@
 ---
 title: Automate PDF Manipulation and Email tasks w/AppleScript
-date: 2021/3/19
+date: 2023/11/29
 description: Automated PDF manipulation and Email tasks using a combination of AppleScript and Shell Scripting.
 tag: scripts
 author: You
